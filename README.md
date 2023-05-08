@@ -1,6 +1,7 @@
 # gestion_cabinets_medical
 
 #Important!!
+----------------------------------------------------------
 To run the app 
 1) Install docker engine 
 2) Run Radis container with following command:docker run -d --name redis-stack-server -p 6379:6379 redis/redis-stack-server:latest
